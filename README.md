@@ -1,2 +1,2 @@
 # school-erp
-School ERP
+<b style="color:red">School ERP</b>
